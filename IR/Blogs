@@ -4,3 +4,7 @@ https://www.hackingarticles.in/red-teaming/
 
 FireEye:
 https://www.fireeye.com/blog/threat-research.html
+
+CobaltStrike Powershell Payload Analysis  
+https://michaelkoczwara.medium.com/cobalt-strike-powershell-payload-analysis-eecf74b3c2f7
+https://github.com/whickey-r7/grab_beacon_config/blob/main/grab_beacon_config.nse - To check Scanned the server using an Nmap script
